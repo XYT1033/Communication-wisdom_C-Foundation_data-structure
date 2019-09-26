@@ -1,0 +1,4 @@
+﻿  01 冒泡排序.cpp
+g:\educatevideo\c\c++基础教程完整版资料\05_数据结构\day04\4-源代码\01 冒泡排序\01 冒泡排序\01 冒泡排序.cpp(13): warning C4244: “return”: 从“time_t”转换到“long”，可能丢失数据
+g:\educatevideo\c\c++基础教程完整版资料\05_数据结构\day04\4-源代码\01 冒泡排序\01 冒泡排序\01 冒泡排序.cpp(62): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  01 冒泡排序.vcxproj -> G:\educateVideo\C\C++基础教程完整版资料\05_数据结构\day04\4-源代码\01 冒泡排序\Debug\01 冒泡排序.exe
